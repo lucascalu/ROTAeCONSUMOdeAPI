@@ -18,3 +18,10 @@ npm install axios
 npx expo install @react-navigation/native @react-navigation/native-stack  
   
 </pre>
+<pre>
+  email para envio:
+</pre>
+<pre>
+  lucasschiavoncalu1+aqmcsbvtyfen3kkzqt8q@boards.trello.com
+
+</pre>
